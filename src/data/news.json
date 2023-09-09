@@ -1,0 +1,27 @@
+{
+    "post":{
+        "postList":[
+            {
+                "id":"WP01",
+                "postName":"WRAPSTYLE HCM LỘT XÁC PORSCHE 911 CARRERA VỚI BỘ CÁNH ĐƯỢC CÁ NHÂN HOÁ",
+                "carName":"PORSCHE",
+                "postDate":"17 JUNE 2021",
+                "postImage":"https://wrapstylevietnam.com/Uploads/images/WS-Porsche%20911%20Carrera%20Bespoke17.jpg",
+                "author":"Lại Hợp Sâm",
+                "detailingImage":{
+                    "image1":"https://wrapstylevietnam.com/Uploads/images/WS-Porschxe%20911%20Carrera%20Bespoke11.jpg",
+                    "image2":"https://wrapstylevietnam.com/Uploads/images/WS-Porsche%20911%20Carrera%20Bespoke3.jpg",
+                    "image3":"https://wrapstylevietnam.com/Uploads/images/WS-Porsche%20911%20Carrera%20Bespoke18.jpg",
+                    "image4":"https://wrapstylevietnam.com/Uploads/images/WS-Porsche%20911%20Carrera%20Bespoke13.jpg",
+                    "image5":"https://wrapstylevietnam.com/Uploads/images/WS-Porsche%20911%20Carrera%20Bespoke12.jpg"
+                },
+                "postContent":{
+                    "content1":"content1",
+                    "content2":"content2",
+                    "content3":"content3",
+                    "content4":"content4"
+                }
+            }
+        ]
+    }
+}

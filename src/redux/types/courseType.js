@@ -1,0 +1,5 @@
+export const GET_COURSE = "GET_COURSE";
+
+export const GET_COURSE_DETAIL = "GET_COURSE_DETAIL";
+
+export const GET_COURSE_PAGE = "GET_COURSE_PAGE";
